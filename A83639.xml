@@ -1,0 +1,854 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>All the votes, orders, &amp;c. in the House of Commons, both in the late, and present Parliament, touching the Earl of Danby</title>
+            <title>Proceedings. 1678-1679</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83639</idno>
+            <idno type="STC">Wing E2517aA</idno>
+            <idno type="STC">ESTC R231847</idno>
+            <idno type="EEBO-CITATION">99897496</idno>
+            <idno type="PROQUEST">99897496</idno>
+            <idno type="VID">133282</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133282)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2498:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>All the votes, orders, &amp;c. in the House of Commons, both in the late, and present Parliament, touching the Earl of Danby</title>
+                  <title>Proceedings. 1678-1679</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>"All the votes, orders, &amp;c. in the House of Commons, in the late and present Parliament, touching the five Lords in the Tower" and "An abstract of all proceedings in the House of Peers, in the case of the Earl of Danby, and the other five Lords in the Tower; and also their debates, in relation to the bishops." have separate caption titles.</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2498 misbound, with pages cropped.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leeds, Thomas Osborne, --  Duke of, 1631-1712 --  Early works to 1800.</term>
+               <term>Arundell of Wardour, Henry Arundell, --  Baron, 1606?-1694 --  Early works to 1800.</term>
+               <term>Powis, William Herbert, --  Duke of, 1617-1696 --  Early works to 1800.</term>
+               <term>Belasyse, John Belasyse, --  Baron, 1615-1689 --  Early works to 1800.</term>
+               <term>Stafford, William Howard, --  Viscount, 1614-1680 --  Early works to 1800.</term>
+               <term>Petre, William Petre, --  Baron, 1622-1684 --  Early works to 1800.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Parliamentary_proceedings">
+            <pb n="1" facs="tcp:133282:1" rendition="simple:additions"/>
+            <head>All the VOTES, ORDERS, &amp;c. IN THE Houſe of Commons, Both in the Late, and Preſent Parliament, touching The EARL of <hi>DANBY.</hi>
+            </head>
+            <div type="daily_record">
+               <head>
+                  <hi>Jovis, Decemb.</hi> 19. 1678.</head>
+               <p>
+                  <hi>REſolved,</hi> That there is ſufficient Matter of Impeachment againſt the Lord Treaſurer.</p>
+               <p>
+                  <hi>Ordered,</hi> That a Committee be appointed to draw up Articles of Impeachment againſt the Lord Treaſurer: And the ſaid Committee was to receive any further Informations, or Evidence againſt him.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>Sabbati</hi> 21 <hi>Decemb.</hi> 78.</head>
+               <p>
+                  <hi>Mr. Williams</hi> Reports from the Committee, That they had Agreed upon ſeveral Articles of Impeachment againſt the Lord Treaſurer, which were ſeverally put to the Queſtion, and Agreed upon by the Houſe. And,</p>
+               <p>
+                  <hi>Ordered,</hi> That the ſaid Articles of Impeachment be Ingroſs'd: And that a Clauſe of ſaving Liberty to Exhi<g ref="char:EOLhyphen"/>bit any further Articles, be Inſerted. And that he be ſequeſtred from Parliament, and Committed to ſafe Cu<g ref="char:EOLhyphen"/>ſtody. And Sir <hi>Henry Capel</hi> to carry up the Articles on <hi>Monday</hi> next.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>Lunae</hi> 23 <hi>Decemb.</hi> 78.</head>
+               <p>The Clauſe of ſaving Liberty, <hi>&amp;c.</hi> was then brought in, and ordered to be ingroſs'd with the other Articles.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>Poſt Meridiem,</hi> 23 <hi>Decemb.</hi> 78.</head>
+               <p>Sir <hi>Henry Capel</hi> acquaints the Houſe, That he had attended the Lords with the Articles of Impeachment againſt the Lord Treaſurer, and had delivered the ſame into the hands of the Lord Chancellor.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>Jovis,</hi> 20 <hi>March</hi> 78/9.</head>
+               <p>
+                  <hi>Reſolved,</hi> That a Meſſage be ſent to the Lords, to put them in mind of the Impeachment of High Treaſon Exhibited againſt <hi>Thomas</hi> Earl of <hi>Danby,</hi> in the Name of the Commons, and to deſire that he may be forthwith committed to ſafe Cuſtody.</p>
+               <p>
+                  <hi>Reſolved,</hi> That it be referred to the Committee of Secrecy, to draw up further Articles againſt <hi>Thomas</hi> Earl of <hi>Danby.</hi>
+               </p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>Sabbati,</hi> 22 <hi>March,</hi> 78/9.</head>
+               <p>
+                  <hi>Reſolved,</hi> That a Meſſage be immediately ſent to re-mind the Lords of the laſt Meſſage ſent them, relating to the Earl of <hi>Danby:</hi> And to demand, that he may be forthwith Sequeſtred from Parliament, and committed to ſafe Cuſtody.</p>
+               <p>
+                  <hi>Mr. Powle</hi> Reports from a Conference, That the Duke of <hi>Monmouth</hi> ſpake at the ſaid Conference, as fol<g ref="char:EOLhyphen"/>loweth;</p>
+               <p>
+                  <q>
+                     <hi>I am commanded by the Lords to acquaint you, That their Lordſhips having taken into Conſideration Matters relating to the Earl of</hi> Danby, <hi>together with what His Majeſty was pleaſed to ſay upon that Subject, have Ordered, That a Bill be brought in, By which</hi> Thomas <hi>Earl of</hi> Danby <hi>may be made for ever incapable of coming into his Majeſties Preſence, and of all Offices and Employments; and of receiving any Grants or Gifts from the Crown, and of Sitting in the Houſe of Peers.</hi>
+                  </q> The Conſideration of this Report adjourned till <hi>Monday</hi> next.</p>
+               <p>A Committee appointed to repair to the Lord Chancellor, and other Offices, and enquire into the manner of ſuing forth the Pardon of <hi>Thomas</hi> Earl of <hi>Danby,</hi> and make their Report to the Houſe.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>Lunae</hi> 24. <hi>March</hi> 78/9.</head>
+               <p>Sir <hi>Francis Winnington</hi> reports from the Committee appointed to enquire into the Manner of ſuing forth the Earl of <hi>Danby</hi>'s Pardon. And,</p>
+               <p>That they had attended the Lord Chancellor, and made Search in all Offices, concerned in paſſing the Kings Letters, Patents, and had agreed upon a Report. <hi>viz.</hi>
+               </p>
+               <p>They went to Mr. Secretary <hi>Coventry</hi>'s Office, and could find no entry of any ſuch Pardon there. And Mr. Secretary declared, he knew nothing of Paſſing the Pardon.</p>
+               <p>They went likewiſe to the Lord <hi>Sunderland's</hi> Office, and Mr. <hi>Bridgman,</hi> his Secretary, aſſured them there was no Entry of any ſuch Pardon in that Office.</p>
+               <p>The Committee not being ſatisfied, reſolved to attend the Lord <hi>Sunderland,</hi> but he was pleaſed to ſend to the Chair-man to inform the Committee, that he knew nothing of the Pardon.</p>
+               <p>From thence they went to the Offices of Signet and Privy Seal. And had there an Account that there was there no Entry or Memorial of any ſuch Pardon.</p>
+               <p>From thence they went to the Lord Privy Seal, and he told them that he never heard any word of the Pardon, untill the day the King was pleaſed to mention it in the houſe of Lords; and furth<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that if any ſuch Pardon had come to him, he would very well have conſidered it, before he would <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſed it.</p>
+               <p>After this the Committee attended my Lord Chancellor, who acquainted them, that as to the Pardon, he never adviſed, drew, or altered one Word of it. And that the Truth of the Fact was thus; That my Lord Treaſurer delivered it to him, and being asked by the Committee, whether the Pardon extended to Impeach<g ref="char:EOLhyphen"/>ments? His Lordſhip anſwered, that it did: and had theſe General Words; Of all Treaſons and Crimes whatſoever. Together with the Words, <hi>Omnia &amp; Omnimoda Indictamenta Impetitiones.</hi> And thoſe other words, <hi>Licet Indictatus vel non Indictatus, Impetitus, vel non Impetitus, &amp;c.</hi> And this was to extend to the 27th of <hi>February</hi> laſt, and did bear date the firſt of <hi>March</hi> inſtant.</p>
+               <p>
+                  <pb n="2" facs="tcp:133282:2"/>
+My Lord Chancellor further declared, That my Lord Treaſurer deſired to have the Pardon paſſed with all the privacy in the World<g ref="char:punc">▪</g> and the reaſon he gave was, becauſe he did not intend to make uſe of it, but ſtand upon his Innocency, except falſe Witneſſes ſhould be produced againſt him; and then he would make uſe of it at the laſt extremity.</p>
+               <p>After this, my Lord Chancellor ſaid, he writ a Letter, wherein he took notice to his Lordſhip, That in the firſt place the Service of the King was to be conſidered: And if his Lordſhip would take his Advice, he thought it was beſt to let the Pardon paſs in the Regular Courſe, that it might be publickly known; that ſo it might an<g ref="char:EOLhyphen"/>ſwer the Ends his Lordſhip intended: which was to prevent the Re-aſſuming the Impeachment againſt his Lordſhip.</p>
+               <p>The next day after this Letter was ſent, he declared, That he met my Lord Treaſurer at the Committee of Foreign Affairs, where he gave my Lord Treaſurer the ſame Advice as he gave in the Letter, which was to diſ<g ref="char:EOLhyphen"/>ſwade his Lordſhip.</p>
+               <p>Thereupon my Lord Treaſurer ſaid, that he had acquainted the King with the Contents of his Letter. And that his Majeſty did declare, That He was reſolved to have it done: which was, to paſs the Pardon with all privacy. Suddenly after this, the King commanded my Lord Chancellor to bring the Seal to <hi>White-Hall:</hi> which he did to his own Lodgings. And being there, he laid it on the Table, thereupon his Majeſty com<g ref="char:EOLhyphen"/>manded the Seal to be taken out of the Bag, which his Lordſhip was obliged to ſubmit unto, it not being in his Power to hinder it: And the King writ his Name on the top of the Parchment. And then directed to have it ſealed. Whereupon the Perſon that uſually carried the Purſe, offered to ſeal it, my Lord Chancel<g ref="char:EOLhyphen"/>lor ſaid, that at the very time of affixing the Seal to the Parchment, he did not look upon himſelf to have the Cuſtody of the Seal. And concluded that he took upon himſelf to know, that there was no Memorial in any Office whatſoever of this Pardon, from the Secretaries Office, until it came to his Lordſhip: But that it was a ſtampt Pardon by Creation.</p>
+               <p>
+                  <hi>Reſolved,</hi> That a Meſſage be ſent unto the Lords, to demand Juſtice in the Name of the Commons of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> againſt <hi>Thomas</hi> Earl of <hi>Danby:</hi> And that he may be immediately Sequeſtred from Parliament, and com<g ref="char:EOLhyphen"/>mitted to Safe Cuſtody.</p>
+               <p>
+                  <hi>Reſolved,</hi> That an humble Addreſs be made to his Majeſty, repreſenting the Irregularity and Illegality of the Pardon mentioned by his Majeſty, to be granted to the Earl of <hi>Danby,</hi> and the dangerous Conſequence of granting Pardons to any Perſons that lye under an Impeachment of the Commons of <hi>England.</hi>
+               </p>
+               <p>And it is referred to a Committee, to prepare and draw up the ſame.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>The Lords ſent a Meſſage. <hi>viz.</hi>
+                     </head>
+                     <opener>
+                        <salute>Mr. Speaker,</salute>
+                     </opener>
+                     <p>
+                        <hi>WE are commanded by the Lords, to let the Houſe of Commons know, That the Lords taking into Conſideration the Meſſage received from the Houſe of Commons on Saturday, that the Earl of</hi> Danby <hi>might be ſequeſtred from Parliament, and put into ſafe Cuſtody, did this morning upon Debate order, That the Gentleman uſher of the black Rod, do forthwith take the ſaid Earl into Cuſtody, and him ſafely keep till be bring him to the Bar of their Houſe to morrow morning, And their Lordſhips thought fit to acquaint the Houſe of Commons, That this was done before they received their laſt Meſſage to that Purpoſe.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="daily_record">
+               <head>25 <hi>March</hi> 79. A Meſſage ſent from the Lords. <hi>viz.</hi>
+               </head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>Mr. Speaker, <hi>We are commanded by the Lords to acquaint the Houſe that they ſent to apprehend Thomas Earl of</hi> Danby, <hi>both to his Houſe here in Town, and to his houſe at</hi> Wimbleton, <hi>And that the Gentleman Uſher of the Black Rod had returned their Lordſhips Anſwer that he could not be found.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>Ordered,</hi> That a Bill be brought in to ſummon <hi>Thomas</hi> Earl of <hi>Danby</hi> to render himſelf to Juſtice by a Day, to be therein limited, or in Default thereof to attaint him, and a Committee is appointed to draw up the ſame.</p>
+            </div>
+            <div type="daily_record">
+               <head>26 <hi>March</hi> 79.</head>
+               <p>A Bill to Summon <hi>Thomas</hi> Earl of <hi>Danby,</hi> to render himſelf to Juſtice by a certain Day, or in Default thereof to be attainted, Was read the firſt time.</p>
+            </div>
+            <div type="daily_record">
+               <head>27 <hi>March</hi> 79. A Meſſage from the Lords. <hi>viz.</hi>
+               </head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>Mr. Speaker, <hi>The Lords have paſt a Bill, intituled an Act for baniſhing and diſabling</hi> Thomas <hi>Earl of</hi> Danby, <hi>to which they deſire the Concurrence of this Houſe.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <p>A Bill to Summon <hi>Thomas</hi> Earl of <hi>Danby</hi> to render himſelf to Juſtice, or in default thereof to Attaint him, was read the firſt time.</p>
+               <p>
+                  <hi>Reſolved,</hi> That the ſaid Bill be committed, and the Committee to bring in a Clauſe for diſcovery of all Truſts relating to the Earl of <hi>Danby;</hi> and that he may be made incapable of receiving any Pardon, but by Act of Parliament, wherein he ſhall be parti<g ref="char:EOLhyphen"/>cularly named.</p>
+               <p>An engroſſed Bill ſent from the Lords, entituled an Act for baniſhing and diſabling <hi>Thomas</hi> Earl of <hi>Danby,</hi> was read the ſecond time.</p>
+               <p>
+                  <hi>Reſolved,</hi> That the Bill be rejected.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>April</hi> 79.</head>
+               <p>A Bill for ſummoning Thomas Earl of <hi>Danby,</hi> to render himſelf to Juſtice by a certain Day, or in default thereof, to attaint him of High Treaſon. Was read the third time,</p>
+               <p>
+                  <hi>Reſolved,</hi> That the Bill do paſs, and Sir <hi>Robert Peyton</hi> to carry up the Bill to the Lords for their Concurrence.</p>
+            </div>
+            <div type="daily_records">
+               <head>
+                  <hi>April</hi> 4. 79.</head>
+               <p>The Lords deſire a Preſent Conference concerning the Bill ſent up againſt <hi>Thomas</hi> Earl of <hi>Danby.</hi>
+               </p>
+               <p>Sir <hi>Francis Winnington</hi> Reports from the Conference, That the Lord Privy Seal ſaid at the ſaid Conference to this Effect, That the Lords choſe to deliver back this Bill by Conference, rather than by Meſſage, to preſerve a good Underſtanding, and prevent De<g ref="char:EOLhyphen"/>bate or Controverſie between the two Houſes.</p>
+               <p>The Lords obſerve that the great Affairs of this Nation, are at a Stand at a time of the greateſt Danger and Difficulty that this Kingdom ever laboured under.</p>
+               <p>That the King hath alwayes in his Reign, inclined to Mercy and Clemency to all his Subjects; Therefore to a King ſo merciful and compaſſionate, the firſt Interruption of his Clemency they did deſire ſhould not proceed from the two Houſes, preſſing the King to an Act of the greateſt Security. Therefore have paſſed the Bill with ſome Amendments which he delivered.</p>
+               <p>
+                  <pb n="3" facs="tcp:133282:2"/>
+                  <hi>Reſolved,</hi> That an humble Addreſs be made to his Majeſty to Iſſue out his Royal Proclamation for the apprehending of <hi>Thomas</hi> Earle of <hi>Danby,</hi> with the uſual Penalties upon ſuch as ſhall Conceal him. And that his Majeſty would be further pleaſed to give order to the Officers of his Majeſties Houſhould that they take care that the ſaid Earle of <hi>Danby</hi> be not permitted to reſide within any of his Majeſties Pallaces of <hi>Whitehal, Somerſet-Houſe,</hi> or St. <hi>James</hi>'s. And a Committee is ordered to draw up the ſame.</p>
+               <p>
+                  <hi>Apr.</hi> 7. 79. The Houſe conſidered of the Amendments made by the Lords to the Bill of Attainder of <hi>Thomas</hi> Earle of <hi>Danby.</hi>
+               </p>
+               <p>The Second, Third and Fifth Amendments were agreed to.</p>
+               <p>The Firſt, Fourth, Sixth, Seventh, Diſagreed to.</p>
+               <p>And a Conference thereupon ordered with the Lords.</p>
+               <p>
+                  <hi>Apr.</hi> 8. 79. <hi>Mr. Powle</hi> Reports the Reaſons why the Commons diſagreed to the Lords Amend<g ref="char:EOLhyphen"/>ments, which are as followeth.</p>
+               <p>The Addition to the Title doth ſhew that the Amendments made by your Lordſhips to the Bill, do wholly alter the Nature of it, and from a Bill of Attainder have converted it into a Bill of Baniſh<g ref="char:EOLhyphen"/>ment, which the Commons cannot conſent to for theſe Reaſon,</p>
+               <p n="1">1. That Baniſhment is not the Legal Judgment in caſe of high Treaſon. And the Earle of <hi>Danby</hi> be<g ref="char:EOLhyphen"/>ing Impeacht by the Commons of high Treaſon, and fled from Juſtice, hath thereby confeſt the Charge, and therefore ought to have the Judgment of high Treaſon for his Puniſhment.</p>
+               <p n="2">2. That Baniſhment being not the Puniſhment the Law inflicts upon thoſe Crimes; The Earle of <hi>Dan<g ref="char:EOLhyphen"/>by</hi> might make uſe of this Remiſſion of his Sentence, as an Argument, That either the Commons were diſtruſtful of their Proofs againſt him, or elſe that the Crimes are not in themſelves of ſo high a Nature as Treaſon.</p>
+               <p n="3">3. That the Example of this would be an Encouragement to all Perſons that ſhould be hereafter Im<g ref="char:EOLhyphen"/>peached by the Commons, to withdraw themſelves from Juſtice, which they would alwaies be ready to do if not prevented by a Commitment upon their Impeachment, and thereby hope to obtain a more favourable Sentence in a Legiſlative way, than your Lordſhips would be obliged to paſs upon them in your judici<g ref="char:EOLhyphen"/>al Capacity.</p>
+               <p>The Amendments being all in order to thoſe alterations, the Commons do not agree to them for the former Reaſons.</p>
+               <p>A Conferrence deſired of the Lords upon the Amendments made by them to the Bill of Attainder of the Earl of Danby.</p>
+               <p>8. <hi>Apr. Poſt Meridiem,</hi> The Lords deſire a Conference concerning matters in the Bill concerning the Earl of <hi>Danby,</hi> which was agreed to.</p>
+               <p>Sr. <hi>Francis Winnington</hi> Reports from the ſaid Conference, that the Lord <hi>Huntingdon</hi> managed the ſaid Conference which was to the Effect following.</p>
+               <p>The Lords have deſired this Conference with the Houſe of Commons, not ſo much to argue and diſpute as to mitigate and reconcile.</p>
+               <p>They have already obſerved that the Debates of this Bill have given too long and too great an obſtru<g ref="char:EOLhyphen"/>tion to publick Buſineſs, and therefore they deſire you to believe that that is the Reaſon which hath chiefly prevailed with their Lordſhips, in a matter of this Nature.</p>
+               <p>And upon this it is, that if a way may be found to ſatisfie and ſecure the publique Fears, by doing leſs then the Bill you have propoſed, the Lords do not think it adviſable to inſiſt upon the utmoſt and the moſt vigorous ſatisfaction to publique Juſtice which might be demanded.</p>
+               <p>To induce you to this Complyance, the Lords do acknowledg that Baniſhment is ſo far from being the Legal Judgment in caſe of high Treaſon, that it is not the Legal Judgment in any caſe whatſoever, ſince it can never be inflicted but by the Legiſlative Authority.</p>
+               <p>But they ſee no reaſon why the Legiſlative Authority ſhould always be bound to act to the utmoſt extent of its Power, for there may be a prudential neceſſity ſometimes of making abatements, and might be of a fatal conſequence if it ſhould not be ſo.</p>
+               <p>And the Lords to remove all Jealouſies of the Preſidents of this kind, do declare that nothing which hath been done in the Earl of <hi>Danby's</hi> caſe ſhall ever be drawn into Conſequence for the time to come, and will ſo enter it upon their Journal.</p>
+               <p>And thereupon their Lordſhips inſiſt upon their Amendments, ſo far as to exclude all Attainders, and do promiſe themſelves the Commons will in this Point comply with their Lordſhips, who do again aſſure them that their Reſolutions are grounded only upon their Tenderneſs and Conſideration of the Pub<g ref="char:EOLhyphen"/>lick.</p>
+               <p>
+                  <hi>Apr.</hi> 9. 79. Sr<g ref="char:punc">▪</g> 
+                  <hi>Francis Winnington</hi> Reported the Conference had with the Lords touching the Amend<g ref="char:EOLhyphen"/>ments made by the Lords to the Bill, for the Attainder of <hi>Thomas</hi> Earle of <hi>Danby,</hi> to which Amend<g ref="char:EOLhyphen"/>ments the Commons did not agree.</p>
+               <p>The Commons ſent a Meſſage to the Lords, to deſire a free Conference upon the ſubject matter of the laſt Conference.</p>
+               <p>10. <hi>Apr.</hi> 79. A free Conference was had accordingly, and the Members that managed the ſame, are ordered to draw up ſuch Matters as are fit to be entred, that paſſed at the ſaid free Conference.</p>
+               <p>
+                  <hi>Poſt Meridiem,</hi> The Lords deſire a preſent free Conference upon the ſubject Matter of the laſt free Conference.</p>
+               <p>Sr. <hi>Francis Winnington</hi> Reports the matters of the ſaid free Conference.</p>
+               <p>12 <hi>Apr.</hi> 79. ☞ Sir <hi>Francis Winnington</hi> acquaints the Houſe, that in purſuance of their Order, he had drawn up the ſubſtance of the matter that was delivered at the laſt free Conference with the Lords as fol<g ref="char:EOLhyphen"/>loweth.</p>
+               <p>At a free Conference with the Lords, the Lord Privy Seal ſaid, that the Commons might ſee by the pre<g ref="char:EOLhyphen"/>ſent quick free Conference which the Lords deſired, that their Lordſhips did ſhew their willingneſs by uſing all means poſſible to Reconcile both Houſes, and to come to ſuch an underſtanding, as to paſs the Bill with all expedition.</p>
+               <p>
+                  <pb facs="tcp:133282:3" rendition="simple:additions"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> would have any other Penalties added to the Bill, their Lordſhips would leave it to the Commons, ſo that they run not to the abſolute Obſtruction of the Lord Im<g ref="char:EOLhyphen"/>peacht: And the Lord Privy Seal took notice, that all the Reaſon and Juſtice were of the Common's ſide, yet in a Legiſlative Capacity they were to conſider Circumſtances in Relation to the Good of the Publick. Upon this his Lordſhip ſaid, that in the Tranſaction of this Affair, there were too great Points gained by this Houſe of Commons.</p>
+               <p>The firſt was, that Impeachments made by the Commons in one Parliament, continued from Seſſion to Seſſion, and Parliament to Parliament, notwithſtanding Prorogations or Diſſolutions.</p>
+               <p>The other point was, that in Caſes of Impeachment upon ſpecial matter ſhown; if the Modeſty of the Party Impeach'd directs him not to withdraw, the Lords admit that of Right they ought to order him to withdraw, and that afterwards he muſt be Committed.</p>
+               <p>His Lordſhip obſerved, that a Member of the Houſe of Commons mentioned the Earl of <hi>Clarendon</hi>'s Caſe, but in regard that Caſe was general and not ſpecial matters ſhewn, it was not like this; and therefore he did not underſtand the Lords intended to extend the point of Withdrawing and Commitment to general Impeachments without ſpecial matter alledged; for if it ſhould be otherwiſe, the Lords did not know how many of their Lordſhips might be picked out of their Houſe of a ſudden.</p>
+               <p>The Earl of <hi>Shaftsbury</hi> ſaid, that they were as willing to be rid of the Earl of <hi>Danby</hi> as the Commons, and in the firſt place, as to the Right of the Commons, That upon Impeachments, the Lord Accuſed ought to Withdraw, and then be Committed; He ſaid their Lordſhips did agree it was their Right, and well war<g ref="char:EOLhyphen"/>ranted by Precedents of former Ages: And as to the diſtinction the Lord Privy Seal made, where the Im<g ref="char:EOLhyphen"/>peachments were General, and when ſpecial matter was alledged; He ſaid the Lords gave no Order to make any ſuch Diſtinction, for that General Impeachments were not in the Caſe.</p>
+               <p>And the Duke of <hi>Monmouth</hi> and the Lord <hi>Falconbridge</hi> affirmed the ſame, and that the Earl of <hi>Shaftsbury</hi> was in the right, and delivered the true ſence of the Lords.</p>
+               <p>He alſo ſaid, that the Expreſſion which was ſent with Reaſons from the Lords the other day, <hi>viz.</hi>
+               </p>
+               <p>That the Lords would not draw into Example the Proceedings of the Earl of <hi>Danby,</hi> but would vacat them, They intended that to extend only to the point of Not-Withdrawing and Not-Committing.</p>
+               <p>He likewiſe declared, that the way now propoſed, he thought, would be a means to have the Bill paſs; for the Commons might have other Penalties if they would, as Confiſcation of Eſtate: And although they had no particular Order to mention Honours, yet by the general words he thought Honours were included; and if they were inſiſted on by the Commons, he knew not but that they might be Agreed to be inſerted in the Bill.</p>
+               <p>He deſired the Commons would conſider, that there were weighty Reaſons which were better underſtood than expreſſed, that prove it neceſſary for the Good of the Publick, that this Bill ſhould ſpeedily paſs.</p>
+               <p>The Commons replyed, that they hoped their Lordſhips did not think the Commons did take it, as if they had now gained any point; for that the Points that their Lordſhips mentioned as gained, were nothing but what was agreeable to the Ancient Courſe and Methods of Parliaments.</p>
+               <p>12 <hi>Apr.</hi> 79. <hi>Poſt Meridiem.</hi> A free Conference deſired by the Commons upon the ſubject matter of the laſt free Conference.</p>
+               <p>Sir <hi>Thomas Meers</hi> Reports, that they had Attended the ſaid free Conference, and left the Bill with the Amendments with the Lords.</p>
+               <p>14 <hi>Apr.</hi> 79. <hi>Poſt Meridiem.</hi> The Lords deſire a free Conference upon the ſubject matter of the laſt free Conference.</p>
+               <p>Sir <hi>Francis Winnington</hi> Reports from the free Conference with the Lords, that the ſame was Managed by my Lord Privy Seal, <hi>(viz.)</hi> That the Lords hoped that this Conference would be a Concluding Confe<g ref="char:EOLhyphen"/>rence, and had agreed to the Bill without any further Amendments, to which they deſired the Concurrence of the Commons.</p>
+               <p>The Commons Agreed to the Amendments made by the Lords, and Sir <hi>Francis Winnington</hi> went up with a Meſſage to Acquaint their Lordſhips thereof.</p>
+            </div>
+            <div type="daily_records">
+               <head>16 <hi>Apr.</hi> 79. A Meſſage from the Lords.</head>
+               <p>
+                  <hi>Mr. Speaker,</hi> We are Commanded by the Lords to Acquaint this Houſe, that the Earl of <hi>Danby</hi> laſt Night Rendred himſelf to the Gentleman Uſher of the Black Rod, who brought him this day to the Bar of their Houſe: Their Lordſhips have ſent him to the Tower.</p>
+               <p>17 <hi>Apr.</hi> 79. A Committee appointed to prepare and draw up Evidence againſt <hi>Thomas</hi> Earl of <hi>Danby,</hi> and to draw up further Articles againſt the ſaid Earl as they ſhall ſee cauſe, and they are to ſit <hi>de die in diem.</hi>
+               </p>
+            </div>
+            <div type="daily_record">
+               <head>25 <hi>Apr.</hi> 79. A Meſſage from the Lords.</head>
+               <p>To Acquaint the Houſe, that <hi>Thomas</hi> Earl of <hi>Danby</hi> hath this day appeared in Perſon at the Bar of their Houſe, and hath put in his Plea to the Articles of Impeachment, which the Lords have ſent to this Houſe.</p>
+               <p>
+                  <hi>Reſolved,</hi> that it be referred to the Committee of Secrecy, to Examine the Matter of the Plea of the Earl of <hi>Danby,</hi> and to enquire how Preſidents ſtand in Relation to the Pardon, and in what manner and by what means the ſame was obtained.</p>
+            </div>
+            <div type="daily_records">
+               <pb n="9" facs="tcp:133282:3"/>
+               <head>
+                  <hi>May</hi> 8. 79. <hi>Post Meridiem</hi> A Meſſage from the Lords. <note place="margin">
+                     <hi>April</hi> 9. 1679.</note>
+               </head>
+               <p>To Acquaint the Houſe that they had demanded of the Earl of <hi>Danby</hi> whether he would Rely upon and Abide by the Plea of his Pardon. And the Earl Anſwered by word of Mouth only as followeth.</p>
+               <p>The Plea which I have put in, was put in by the Advice of my Councel. And my Councel tells me that my Pardon is a very good Pardon in Law, and Adviſ'd me to inſiſt upon my Plea put in, which I now do, And deſire that my Councel may be Heard to make out the validity of my Pardon.</p>
+               <p>
+                  <hi>May</hi> 5. 79. <hi>Reſolved.</hi> That it is the Opinion of this Houſe, that the Pardon pleaded by the Earl of <hi>Danby</hi> is illegal and void; and ought not to be allowed in bar of the Impeachment of the Commons of <hi>England.</hi>
+               </p>
+               <p>
+                  <hi>Reſolved.</hi> That the whole Houſe will go up to the Lords Bar, And demand their Judgment againſt the Earl of <hi>Danby,</hi> for that the Pardon by him pleaded is illegal and invalid and ought not to bar or preclude the Commons from having Juſtice upon their Impeachment.</p>
+               <p>Accordingly Mr. Speaker with the whole Houſe went up to the Bar of the Lords Houſe and ſpake as followeth.</p>
+               <p>
+                  <hi>My Lords.</hi> The Knights, Citizens, and Burgeſſes in Parliament Aſſembled, Are come up to demand Judgment in their own Names, and in the Names of all the Commons of <hi>England</hi> againſt <hi>Thomas</hi> Earl of <hi>Danby;</hi> who ſtands Impeacht by them before your Lordſhips of high Treaſon and divers high Crimes and Miſdemeanors. To which he hath pleaded a Pardon, which Pardon the Commons conceive to be Illegal and Void. And therefore they do demand Judgment of your Lordſhips accordingly.</p>
+               <p>
+                  <hi>May</hi> 7. 79. A Meſſage ſent from the Lords, to acquaint this Houſe with an Order, yeſterday made, concerning the Earl of <hi>Danby, (viz.)</hi>
+               </p>
+               <p>It is ordered by the Lords Spiritual and Temporal in Parliament Aſſembled, that Saturday next be appointed for hearing of the Earl of <hi>Danby,</hi> to make good his Plea of his Pardon.</p>
+               <p>
+                  <hi>May</hi> 10. 79. The Lords deſire a Conference with this Houſe, to communicate the Contents of a Pe<g ref="char:EOLhyphen"/>tition from the Earl of <hi>Danby.</hi>
+               </p>
+               <p>Sr. <hi>John Trevor</hi> Reports from the ſaid Conference. That their Lordſhips had received a Petition from the Earl of <hi>Danby,</hi> who was ordered to attend their Lordſhips this Day, which his Lordſhip read. Whereby the Earl of <hi>Danby</hi> ſets forth that he had received Informations ſeverally from his Councel, that they durſt not Appear to Argue the Validity of his Pardon, by reaſon of a Vote of the Houſe of Commons. And their Lordſhips deſired to know whether there were any ſuch Vote as was alleadged in the Petition.</p>
+            </div>
+         </div>
+         <div type="Parliamentary_proceedings">
+            <head>All the VOTES, ORDERS, <hi>&amp;c.</hi> in the Houſe of COMMONS, in the Late and Preſent PARLIAMENT, touching the Five LORDS in the Tower.</head>
+            <p>
+               <note place="margin">Impeachments of the Houſe.</note>THe Houſe paſſed five Reſolves for the Impeaching of <hi>Henry</hi> Lord <hi>Arundel</hi> of of <hi>Wardour, William</hi> Earl of <hi>Powis, John</hi> Lord <hi>Bellaſis, William</hi> Viſcount <hi>Staf<g ref="char:EOLhyphen"/>ford, William</hi> Lord <hi>Petre,</hi> Of Treaſon and other high Crimes and Miſdemeanors.</p>
+            <p>The ſame day the five ſeverall Impeachments were accordingly carried up to the Lords.</p>
+            <p>The ſame day,</p>
+            <p>
+               <hi>Reſolved,</hi> That whereas the ſaid Peers are already under Commitment; therefore this Houſe will not de<g ref="char:EOLhyphen"/>ſire the Lords that they may be Sequeſtred from Parliament, and Committed to ſafe Cuſtody, as is uſual in Caſes of the like Nature.</p>
+            <p>The ſame day a Committee Appointed to draw up Articles of Impeachment againſt the ſaid Five Lords.</p>
+            <p>
+               <hi>Sabbati</hi> 28 <hi>Decemb.</hi> 1678. The Committee appointed to draw up Articles againſt the Lords, are to in<g ref="char:EOLhyphen"/>ſpect the Journals, and conſider Preſidents touching Impeachments.</p>
+            <p>
+               <hi>Jovis</hi> 20 <hi>March</hi> 1678/9. A Committee of Secrecy is appointed to take Informations and prepare Evidence, and draw up Articles againſt the Lords Impeached, and now in the Tower, <hi>&amp;c.</hi>
+            </p>
+            <p>The ſame day, A Committee Appointed to inſpect the Journals of the Lords, and ſee what Reſolutions have been there taken in matters of Impeachment.</p>
+            <p>
+               <pb n="8" facs="tcp:133282:4"/>
+               <hi>March</hi> 24, <hi>Reſolved,</hi> that an humble Addreſs be made to his Majeſty, to deſire his Majeſty that all the Papers and Writings relating to the diſcovery of the Plot, and particularly ſuch Papers and Examinations as have been taken ſince the Prorogation of the laſt Parliament; may be delivered to the Committee of Secre<g ref="char:EOLhyphen"/>cy, Appointed to draw up Articles againſt the Lords in the Tower.</p>
+            <p>
+               <hi>March</hi> 27. 79. Sir <hi>Thomas Chichly</hi> Acquaints the Houſe, that his Majeſty had been attended with the Ad<g ref="char:EOLhyphen"/>dreſs of this Houſe, and his Majeſty returned Anſwer, that thoſe Papers and Examinations were delivered to the Committee of Lords, and ſo ſoon as they were diſpatched there, they ſhould be ſent to the Commit<g ref="char:EOLhyphen"/>tee of Secrecy appointed by this Houſe.</p>
+            <p>
+               <hi>Apr.</hi> 3. 79. Mr. <hi>Cerebe</hi> Reports from the Secret Committee, the Articles of Impeachment againſt the Five Lords.</p>
+            <p>
+               <hi>Reſolved,</hi> that the ſaid Articles be Ingroſſed.</p>
+            <p>
+               <hi>Apr.</hi> 7. 79. The Ingroſſed Articles of Impeachment of High Treaſon, <hi>&amp;c.</hi> againſt the Five Lords in the Tower, were read.</p>
+            <p>
+               <hi>Ordered,</hi> That the Lord <hi>Ruſſel</hi> do carry up the ſaid Articles to the Lords.</p>
+            <p>
+               <hi>Apr.</hi> 15. 79. Sir <hi>Thomas Stringer</hi> Reports from the Committee, Appointed to inſpect the Journal of the Houſe of Lords; and ſee what Entries have been made there, touching the giving Copies to the Lords in the Tower of the Evidence againſt them; that the Committee had prepared a Report which he read as followeth.</p>
+            <p>That they find that on Wedneſday the ninth of <hi>April</hi> Inſtant, it is entred in the Lords Journal Book as followeth.</p>
+            <p>The Lord Chancellor, let their Lordſhips know, that the Houſe had ordered that the ſeveral Indite<g ref="char:EOLhyphen"/>ments found againſt them by the grand Jury, ſhould be brought into the Lords Houſe by <hi>Certiorari,</hi> and that their Lordſhips may take Copies of the Articles of Impeachment againſt them.</p>
+            <p>And that they ſhall have liberty to ſearch and take out Copies of the Records and Journals in Order to their defence.</p>
+            <p>Ordered that the Debate hereupon be Adjourned till this day ſeaven Night.</p>
+            <div type="daily_records">
+               <head>
+                  <hi>Apr.</hi> 16. 79. A Meſſage from the Lords.</head>
+               <p>Mr. <hi>Speaker,</hi> The Lords have commanded us to acquaint this Houſe. That the five Lords lately committed to the Tower, have all in Perſon brought their Anſwer to the Articles of Impeachment exhibited againſt them by this Houſe (except my Lord <hi>Bellaſis)</hi> which were read to their Lord<g ref="char:EOLhyphen"/>ſhips. And their Lordſhips have ſent the Original to this Houſe, to the intent this Houſe may conſi<g ref="char:EOLhyphen"/>der of them, and return the ſame Original with all convenient ſpeed.</p>
+               <p>A Debate Ariſing, whether the Lord <hi>Bellaſis</hi> is Actually and Legally Arraigned, having not in per<g ref="char:EOLhyphen"/>ſon delivered his Anſwer at the Bar at the Houſe of Lords, to the Impeachment exhibited aganſt him by this Houſe;</p>
+               <p>
+                  <hi>Reſolved,</hi> That the ſaid Debate be adjourned till to morrow Morning.</p>
+               <p>Ordered that a Committee be appointed to inſpect the Journal of the Houſe of Lords, and ſee what Entries are there made touching the Appearances and Arraignments of the five Lords, now in the Tower and to report, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Apr.</hi> 17. 79. Mr. <hi>Hampden</hi> Reports from the committee appointed to inſpect the Lords journal and found there entered as followeth, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Apr.</hi> 8. 79. The Earl of <hi>Shaftsbury</hi> reported from the Lords committee for Priviledges to whom it was referred to conſider of the method and progreſs of the proceedings to be had upon the Try<g ref="char:EOLhyphen"/>als of the Lords, now Priſoners in the Tower upon the Impeachments brought up againſt them, from the houſe of Commons.</p>
+               <p>That their Lordſhips are of opinion, That the Lords now Priſoners in the Tower ought to be brought to the Bar together, and kneel and there ſtand up and hear the Articles of the Charge againſt them read.</p>
+               <p>Other Opinions concerning Councel, perſons to acceſs have a Lord high Steward. <hi>&amp;c.</hi>
+               </p>
+               <div type="order">
+                  <head>The Report agreed to and this Order follows.</head>
+                  <p>Whereas <hi>William</hi> Earl of <hi>Powis, William</hi> Viſcount <hi>Stafford, William</hi> Lord <hi>Petre, Henry Lord Arundel,</hi> of <hi>Wardour,</hi> and <hi>John</hi> Lord <hi>Bellaſis</hi> now Priſoners in the Tower of <hi>London,</hi> are Impeached of high Trea<g ref="char:EOLhyphen"/>ſon, <hi>&amp;c.</hi> By the Commons in Parliament Aſſembled, who brought into the Houſe particular Articles againſt them. It is this Day ordered by the Lords Spiritual and Temporal in Parliament Aſſembled, That the Lieutenant of the ſaid Tower be and is hereby required to bring the ſaid Earl of <hi>Powis &amp;c.</hi> In ſafe Cuſtody to the Bar of this Houſe, to morrow at ten of the Clock in the fore-Noon, to hear the ſaid Articles wherewith they ſtand charged, and for ſo doing, this ſhall be his ſufficient War<g ref="char:EOLhyphen"/>rant.</p>
+               </div>
+            </div>
+            <div type="daily_record">
+               <pb n="9" facs="tcp:133282:4"/>
+               <head>
+                  <hi>April</hi> 9. 1679.</head>
+               <p>They find that the Lord <hi>Powis,</hi> Lord <hi>Stafford,</hi> Lord <hi>Petre,</hi> and Lord <hi>Arundel</hi> were brought to the Bar, and kneeled till the Lord Chancellour bid them ſtand up; and then the Articles were read to them, and the Lord Chancellour asked them what they had to ſay for themſelves, letting them know, that his Majeſty would appoint a Lord High Steward for their Tryals. Then the Lords made ſeveral Requeſts, in order to their defence, upon their Tryals, and then they withdrew: And the Houſe ha<g ref="char:EOLhyphen"/>ving taken their Requeſts into conſideration, they were called to the Bar again, and the Lord Chancel<g ref="char:EOLhyphen"/>lour let them know, that the Houſe had ordered, that the ſeveral Indictments found againſt the five Lords by the Grand Jury, ſhould be brought into that Court by Writ of <hi>Certiorari:</hi> And that their Lordſhips may have Copies of the ſaid Articles of Impeachment, and have time given them, to the fifteenth inſtant, to ſend in their reſpective Anſwers thereunto, with further time to anſwer to any new Articles that ſhould be brought up, and liberty to take out Copies of Records and Journals, <hi>&amp;c.</hi>
+               </p>
+               <p>At the end of which Order, they find it thus entred.</p>
+               <p>Then notice being taken by the Houſe, that the Lord <hi>Bellaſis</hi> had not appeared at the Bar, <hi>Thomas Pleſſington,</hi> and <hi>Robert Dent,</hi> being ſworn at the Bar, atteſted, that the Lord <hi>Bellaſis</hi> is at this preſent ſo ill, that he is not able to ſtir out of his Bed; which reaſonable Excuſe the Houſe allowing, the ſaid <hi>Thomas Pleſſington,</hi> on behalf of the Lord <hi>Bellaſis,</hi> deſired that his Lordſhip might have a Copy of the Articles, and that Councel might be aſſigned to him; which with the other Requeſts made by the Lords who appeared, were equally condeſcended to, for the Lord <hi>Bellaſis,</hi> as for the other four Lords.</p>
+               <p>Then enſues an Order for thoſe five Lords to ſtand committed to the <hi>Tower,</hi> in order to their Try<g ref="char:EOLhyphen"/>als, and the ſame acceſs of Perſons to them, as before this day.</p>
+               <p>
+                  <hi>John</hi> Lord <hi>Bellaſis</hi> hath order for Sir <hi>Thomas Skipwith</hi> and Mr. <hi>Sanders</hi> to be his Councel.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>April</hi> 15. 1679.</head>
+               <p>This day being appointed for the Lords, Priſoners in the <hi>Tower,</hi> to put in their Anſwers to the Ar<g ref="char:EOLhyphen"/>ticles of Impeachment againſt them; which being called for, and not come,</p>
+               <p>
+                  <hi>It is ordered, &amp;c.</hi> That the Lord of <hi>Powis,</hi> Lord <hi>Petre,</hi> Lord <hi>Stafford,</hi> and Lord <hi>Arundel</hi> of <hi>Wardour,</hi> be brought to the Bar of this Houſe, to morrow at Eleven of the Clock, by the Lieutenant of the <hi>Tower,</hi> to put in their reſpective Anſwers to the ſaid Articles; and this ſhall be ſufficient Warrant on that behalf.</p>
+               <p>
+                  <hi>It was moved,</hi> That the Lord <hi>Bellaſis</hi> his Anſwer might be received now, in regard of his preſent Sickneſs; which the Houſe received, and read.</p>
+               <p>
+                  <hi>Ordered,</hi> That it be referred to the Committee of Secreſie to look into the Anſwers of the five Lords in the <hi>Tower;</hi> and they are to conſider of the Methods of Proceedings upon Impeachments, and re<g ref="char:EOLhyphen"/>port their Opinions to the Houſe.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>April</hi> 23. 1679.</head>
+               <p>Mr. <hi>Treby</hi> Reports from the Committee of Secreſie, that the Committee is of Opinion, that the Lord <hi>Bellaſis</hi> being Impeached of High-Treaſon by the Commons, cannot make any Anſwer but in Perſon.</p>
+               <p>That the ſeveral writings put in by the other three Lords, which they call their ſeveral Pleas and Anſwers, are not Pleas or Anſwers, but Argumentative and Evaſive, to which the Commons neither can, nor ought to Reply.</p>
+               <p>That if the Anſwers of the ſaid Lord <hi>Powis,</hi> Lord <hi>Arundel,</hi> and Lord <hi>Stafford,</hi> as well as that of the Lord <hi>Petre</hi> were ſufficient, yet there ought not to be any Proceedings againſt them, until the Lord <hi>Bellaſis</hi> put in a ſufficient Anſwer in Perſon.</p>
+               <p>That the Commons do demand of the Lords, that their Lordſhips would forthwith order and require the ſaid Lord <hi>Powis,</hi> Lord <hi>Stafford,</hi> Lord <hi>Arundel,</hi> and Lord <hi>Bellaſis,</hi> to put in their perfect Anſwers, or in default thereof, that the Commons may have Juſtice againſt them.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>April</hi> 24. 1679.</head>
+               <p>
+                  <hi>Ordered,</hi> That a Conference be deſired with the Lords, touching the Anſwers of the five Lords in the <hi>Tower.</hi>
+               </p>
+               <p>
+                  <hi>Ordered,</hi> That the Managers do acquaint the Lords in the Conference, that this Houſe will make uſe of no other Evidence againſt the five Lords, than for matter done within ſeven years laſt paſt, and deſire their Lordſhips to appoint a ſhort day for the ſaid five Lords to put in their Effectual Pleas and Anſwers to the Articles of Impeachment.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>April</hi> 25. 1679.</head>
+               <p>
+                  <hi>A Meſſage from the Lords.</hi> To acquaint the Houſe, that <hi>John</hi> Lord <hi>Bellaſis</hi> hath this day appeared in Perſon at the Bar of the Houſe, and put in his Anſwer to the Articles of Impeachment, which the Lords have ſent to this Houſe.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>April</hi> 26. 1779.</head>
+               <p>
+                  <hi>A Meſſage from the Lords.</hi> To acquaint the Houſe, that the Lord <hi>Powis,</hi> Lord <hi>Stafford,</hi> and Lord <hi>A<g ref="char:EOLhyphen"/>rundel,</hi> have this day appeared at their Bar, and have retracted their former Pleas, and have put in their Anſwers, which the Lords have ſent to this Houſe.</p>
+               <p>
+                  <hi>Poſt Meridiem.</hi> The ſaid Anſwers were read, and referred to the Secret Committee.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>April</hi> 29. 1679.</head>
+               <p>Sir <hi>John Trevor</hi> Reports, that he had delivered to the Lords the ſeveral Anſwers of the Lords; and that the Lord Chancellour demanded of him, whether the Commons were ready to joyn Iſſue.</p>
+               <p>Whereupon he told his Lordſhip, that he had nothing of that kind in Command from this Houſe.
+<pb n="10" facs="tcp:133282:5" rendition="simple:additions"/>
+                  <hi>Tower</hi> ſhall be brought to their Tryals, upon the Impeachments againſt them, on this day Seven-night.</p>
+               <p>We are likewiſe commanded to acquaint you, that the Lords have appointed an Addreſs to be pre<g ref="char:EOLhyphen"/>ſented to his Majeſty for the naming a Lord High Steward, as well in the Caſe of the Earl of <hi>Danby,</hi> as of the other five Lords; and that the ſame ſhall be in <hi>Weſtminſter Hall.</hi>
+               </p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>May</hi> 8. 1679.</head>
+               <p>Reported from the Committee appointed to ſearch Preſidents relating to the Meſſage ſent from the Lords, That they find, on the like occaſion, the Houſe of Commons have appointed a Select Commit<g ref="char:EOLhyphen"/>tee to joyn with a Committee of the Lords, to conſider of the Methods and Circumſtances to be obſer<g ref="char:EOLhyphen"/>ved in the Tryal.</p>
+               <p>A Meſſage ſent to the Lords, to deſire a Conference upon the ſubject matter of the laſt Meſſage, re<g ref="char:EOLhyphen"/>lating to the Tryal of the Lords in the <hi>Tower.</hi>
+               </p>
+               <p>Mr. <hi>Powle</hi> Reports the Reaſons to be delivered at that Conference.</p>
+               <p>The Commons ſuppoſe your Lordſhips do intend in all your proceedings upon the Impeachments now depending before your Lordſhips, to follow the uſual Courſe and Methods of Parliament; and the Commons cannot apprehend, what ſhould induce your Lordſhips to addreſs to his Majeſty for a Lord High Steward, in order to the determining the validity of the Pardon which hath been pleaded by the Earl of <hi>Danby</hi> to the Impeachment of the Commons; as alſo for the Tryal of the other five Lords; becauſe we conceive, that the Conſtituting of a High Steward is not neceſſary, but that Judg<g ref="char:EOLhyphen"/>ment may be given in Parliament upon Impeachments without a High Steward.</p>
+               <p>There being ſeveral other matters contained in your Lordſhips Meſſage, touching the Tryals of the Lords impeacht, which if not ſetled, may occaſion ſeveral interruptions and delays in the Proceedings.</p>
+               <p>The Houſe of Commons do therefore propoſe to your Lordſhips, that a Committee of both Houſes may be appointed to conſider of the moſt proper ways and Methods of proceedings upon Impeach<g ref="char:EOLhyphen"/>ments of the Houſe of Commons, according to the uſage of Parliament, that thereby thoſe inconve<g ref="char:EOLhyphen"/>niences may be avoided.</p>
+            </div>
+            <div type="daily_record">
+               <head>Poſt Meridiem. <hi>May</hi> 8. 1679.</head>
+               <p>A Conference is deſired with the Lords, upon the ſubject matter of the laſt Conference, relating to the Tryal of the Lords; at which Conference the ſaid Reaſons were delivered.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>May</hi> 9. 1679.</head>
+               <p>A Meſſage from the Lords, to deſire a Conference upon the ſubject matter of the laſt Conference, concerning the Tryals.</p>
+               <p>Sir <hi>Thomas Meers</hi> Reports from the Conference, that the Lords do not agree to a Committee of both Houſes, becauſe they do not think it conformable to the Rules and Orders of Proceedings of this Court, which is, and ever muſt be tender, in matters relating to their Judicature.</p>
+            </div>
+            <div type="daily_record">
+               <head>Poſt Meridiem.</head>
+               <p>
+                  <hi>Reſolved,</hi> That no Commoner whatſoever ſhall preſume to maintain the validity of the Pardon pleaded by the Earl of <hi>Danby,</hi> without the conſent of this Houſe firſt had; and that the perſon ſo doing, ſhall be accounted a Betrayer of the Liberty of the Commons of <hi>England.</hi>
+               </p>
+               <p>
+                  <hi>Reſolved,</hi> That the Anſwer delivered by the Lords this day at the laſt Conference, tends to the interruption of the good Correſpondency between the two Houſes.</p>
+               <p>
+                  <hi>Ordered,</hi> That a Conference be deſired with the Lords upon the ſubject matter of the laſt Confe<g ref="char:EOLhyphen"/>rence.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>May</hi> 10. 1679.</head>
+               <p>Mr. <hi>Hampden</hi> Reports the Reaſons to be offered at the Conference.</p>
+               <p>The Commons may tend to prevent all interruptions of a good Correſpondency between the two Houſes, which as the Commons deſire at all times on their parts to preſerve, ſo it is eſpecially neceſ<g ref="char:EOLhyphen"/>ſary in this conjuncture, when the moſt heynous Delinquents are to be brought to Juſtice, that the Enemies both of King and Kingdom may have no hopes left them to ſee this obſtructed by any diffi<g ref="char:EOLhyphen"/>culties ariſing in the way of proceedings: Therefore for Anſwer to the laſt Conference, the Commons have commanded me to ſay this to your Lordſhips, That your Lordſhips do not offer any Anſwer or ſa<g ref="char:EOLhyphen"/>tisfaction to the Commons in their neceſſary Propoſals, amicably offered by way of ſuppoſition, that they might have been confirmed therein by Anſwer from your Lordſhips: That your Lordſhips do in<g ref="char:EOLhyphen"/>tend in all your proceedings upon the Impeachments now depending before your Lordſhips, to follow the uſual Courſe and Methods of Parliament.</p>
+               <p>And further, that your Lordſhips have not given the leaſt Anſwer or ſatisfaction to the Commons, concerning your Lordſhips addreſſing to the King for a Lord High Steward, though the Commons pro<g ref="char:EOLhyphen"/>poſed their deſire of ſatisfaction, in as cautious terms as could be, on purpoſe to avoid all diſputes a<g ref="char:EOLhyphen"/>bout Judicature.</p>
+               <p>The Commons, to avoid all interruptions and delays in the proceedings againſt the Lords Im<g ref="char:EOLhyphen"/>peacht, and the inconveniency that may ariſe thereby, having propoſed to your Lordſhips, that a Com<g ref="char:EOLhyphen"/>mittee of both Houſes may be nominated, to conſider of the moſt proper means and methods of pro<g ref="char:EOLhyphen"/>ceedings upon Impeachments, your Lordſhips without any reaſon aſſigned (ſave only that you ſay, you do not think it conformable to the Rules and Orders of the proceedings of this Court) have refuſed to agree with the Houſe of Commons in appointing ſuch a Committee, though not heretofore denied, when askt upon the like occaſion; and at this time deſired, purpoſely to avoid diſputes and delays.</p>
+               <p>Therefore the Houſe of Commons have commanded us to acquaint your Lordſhips, that things ſtand<g ref="char:EOLhyphen"/>ing thus upon your Anſwer, they cannot proceed in the Tryal of the Lords, before the method of proceedings be adjuſted between the two Houſes.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>May</hi> 11. 1679.</head>
+               <p>The Lords deſire a free Conference on the ſubject matter of the late Conference.</p>
+               <p>Sir <hi>Thomas Meers</hi> Reports the matter of the free Conference.</p>
+               <p>
+                  <hi>Reſolved,</hi> That a free Conference be deſired with the Lords upon the ſubject matter of the laſt free Conference.</p>
+               <p>
+                  <pb n="11" facs="tcp:133282:5" rendition="simple:additions"/>
+Sir <hi>Will. Coventry</hi> Reports the matter of the free Conference.</p>
+               <p>The Lords by Meſſage acquaint this Houſe, that they have appointed a Committee of the Houſe of Commons to meet at Nine of the Clock tomorrow morning, at the <hi>Inner Court of Wards,</hi> to con<g ref="char:EOLhyphen"/>ſider of Propoſitions and Circumſtances, in reference to the Tryal of the Lords in the <hi>Tower.</hi>
+               </p>
+               <p>
+                  <hi>Reſolved,</hi> That a Committee of twenty four be appointed to joyn with the Committee of the Lords, and to meet at the time and place appointed.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>May</hi> 15. 1679.</head>
+               <p>Sir <hi>John Trevor</hi> Reports from the Committee appointed to joyn with the Committee of Lords, <hi>&amp;c.</hi>
+               </p>
+               <p>The Committee had made two Propoſitions: Firſt, to ſee the Commiſſion of the Lord High Steward, and other former Commiſſions.</p>
+               <p>Secondly, They deſired to know what Reſolutions had been taken, touching the Lords Spiritual, be<g ref="char:EOLhyphen"/>ing preſent or abſent.</p>
+               <p>As to the firſt, the Lords acquainted them of an Order made in the Houſe.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>May</hi> 12. 1679.</head>
+               <p>It is ordered by the Lords Spiritual and Temporal in Parliament aſſembled, that the Office of a High Steward, upon Tryal of Peers upon Impeachment, is not neceſſary to the Houſe of Peers; but that the Lords may proceed upon ſuch Tryals if a High Steward be not appointed.</p>
+               <p>Their Lordſhips further declared, that a Lord High Steward was made <hi>hac vice</hi> only; that not<g ref="char:EOLhyphen"/>withſtanding the making of a Lord High Steward, the Court remained the ſame, and was not thereby altered, but ſtill remained the Court of Peers in Parliament.</p>
+               <p>That the Lord High Steward was but a Speaker, or Chair-man, for the more orderly proceedings at the Tryals.</p>
+               <p>The Commons took Exception at the words in the Commiſſion of the Lord High Steward for the Tryal of the Earl of <hi>Danby; Ac pro eo quod Officium Seneſcalli Angliae (cujus preſentia in hac parte requi<g ref="char:EOLhyphen"/>ritur) ut accepimus jam vacat,</hi> and deſired that they might be left out; as implying, that the continuing of a Lord High Steward was neceſſary; and thereupon propoſed theſe words to be inſerted <hi>(viz.)</hi>
+               </p>
+               <p>
+                  <hi>Ac pro eo quod Proceres &amp; Magnates in Parliamento noſtro Aſſemblat. Nobis humiliter ſupplicaverunt ut ſeneſcallum Angliae hac vice Conſtituere digneremus.</hi>
+               </p>
+               <p>To which amendments the Lords did agree: And it was further agreed, that a Commiſſion under Seal for conſtituting a Lord High Steward for the Tryal of the Earl of <hi>Danby</hi> ſhould be recalled, and a new Commiſſion, according to the ſaid amendment, to be iſſued, and to bear date after the ſaid Reſo<g ref="char:EOLhyphen"/>lution; and that the like Commiſſion ſhould be iſſued for the Tryal of the other five Lords.</p>
+               <p>As to the ſecond Propoſition, the Lords did communicate the Reſolution of the Houſe of Peers, in <hi>haec verba.</hi>
+               </p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>May</hi> 13. 1679.</head>
+               <p>Reſolved by the Lords Spiritual and Temporal in Parliament aſſembled, That the Lords Spiritual have a Right to ſtay in Court in Capital Caſes, till ſuch time as Judgment of Death comes to be pro<g ref="char:EOLhyphen"/>nounced.</p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>May</hi> 15. 1679.</head>
+               <p>The Lords explain the ſaid Reſolution, that the Lords Spiritual have a Right to ſtay and ſit in Court, till the Court proceeds to the Vote of Guilty, or not Guilty.</p>
+               <p>
+                  <hi>Reſolved,</hi> That the Committee of this Houſe inſiſt, That the Lords Spiritual ought not to have any Vote in any proceedings upon the Impeachments againſt the Lords in the <hi>Tower.</hi>
+               </p>
+            </div>
+            <div type="daily_record">
+               <head>
+                  <hi>May</hi> 17. 1679.</head>
+               <p>Sir <hi>John Trevor</hi> Reports the following Reſolution.</p>
+               <p>Reſolved by the Lords Spiritual and Temporal in Parliament aſſembled, that Thurſday next be ap<g ref="char:EOLhyphen"/>pointed to begin the Tryal of the five Lords in the <hi>Tower.</hi>
+               </p>
+               <p>After which Reſolution paſt, the Lords Spiritual asked the leave of the Houſe, that they might with<g ref="char:EOLhyphen"/>draw themſelves from the Tryals of the ſaid Lords, with the liberty of entring their uſual Proteſtation.</p>
+               <p>
+                  <hi>Reſolved,</hi> That it be given as an Inſtruction to the Committee of this Houſe, to inſiſt upon the for<g ref="char:EOLhyphen"/>mer Vote of this Houſe: That the Lords Spiritual ought not to have any Vote in any proceedings a<g ref="char:EOLhyphen"/>gainſt the Lords in the <hi>Tower;</hi> and when that matter ſhall be ſetled, and the methods of proceedings adjuſted, this Houſe ſhall then be ready to proceed upon the Tryal of the Earl of <hi>Danby,</hi> againſt whom the Houſe hath already demanded Judgment, and afterwards to the Tryal of the other five Lords in the <hi>Tower.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="Parliamentary_proceedings">
+            <head>
+               <hi>An Abſtract of all Proceedings in the Houſe of Peers, in the Caſe of the Earl of</hi> Danby, <hi>and the other Five Lords in the</hi> Tower; <hi>and alſo their Debates, in relation to the Biſhops.</hi>
+            </head>
+            <p>
+               <hi>MArch</hi> 1679. Lords Committee appointed to receive all Informations, tending to the diſco<g ref="char:EOLhyphen"/>very of the late horrid Conſpiracy, to conſider in what Eſtate the Impeachments brought up in the laſt Parliament now ſtand, and to make Report to this Houſe.</p>
+            <p>
+               <hi>March</hi> 12. 1679. The Earl of <hi>Shaftsbury</hi> Reports from the Committee appointed to conſider the State of the Parliament: That</p>
+            <p>
+               <hi>Decemb.</hi> 5. 1678. The Impeachments againſt the five Lords were brought from the Houſe of Com<g ref="char:EOLhyphen"/>mons, which conſiſted of a General Charge of Treaſon, and other high Crimes, the Houſe of Com<g ref="char:EOLhyphen"/>mons declaring, they would in convenient time exhibit the Articles of their Charge againſt them <hi>Quaere neglect.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:133282:6" rendition="simple:additions"/>
+might not lye long under it; whereupon it was moved, that the Houſe would conſider of the <gap reason="illegible" resp="#UOM" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> the Houſe of Commons concerning his confinement.</p>
+            <p>
+               <hi>Decemb.</hi> 27. 1678. It was reſolved, That he ſhould not now be confined; and ordered, that he ſhould have a Copy of the Articles, to which he was appointed to bring in his Anſwer before the third of <hi>January;</hi> and that he ſhould have Councel to aſſiſt him.</p>
+            <p>It is alſo referred to the ſaid Lords Committees for Priviledges, to conſider of the ſtate of the Im<g ref="char:EOLhyphen"/>peachments of the late horrid Conſpiracy, and all the incidents relating thereunto, and to report thereunto.</p>
+            <p>
+               <hi>Decemb.</hi> 17. The ſame Order renewed after the Prorogation.</p>
+            <p>
+               <hi>March</hi> 18. The Committee reports their Opinion, that the diſſolution of the laſt Parliament doth not alter the ſtate of Impeachments brought up by the Commons the laſt Parliament.</p>
+            <p>
+               <hi>March</hi> 19. 1678/9. The Houſe agrees with the Committee in that Report.</p>
+            <p>
+               <hi>March</hi> 20. 1678/9. Ordered, that the Earl of <hi>Danby</hi> put in his Anſwer in writing to the Articles of Impeachment brought up againſt the Earl of <hi>Danby,</hi> and to deſire he may be forthwith ſequeſtred from Parliament, and committed to ſafe cuſtody.</p>
+            <p>
+               <hi>March</hi> 22. 1678/9. After his Majeſties Speech to both Houſes, the Lords appointed a Bill to be brought in, that the Earl of <hi>Danby</hi> be made for ever uncapable of coming into his Majeſties pre<g ref="char:EOLhyphen"/>ſence, and of all Offices and Imployments, and of receiving any Grants or Gifts from the Crown, and of ſitting in the Houſe of Peers; and reſolved to communicate their Reſolutions to the Houſe of Commons at a Conference.</p>
+            <p>A Meſſage from the Houſe of Commons, to remind them, that they would immediately proceed upon the Impeachments againſt the Earl of <hi>Danby,</hi> and cauſe him to be forthwith ſequeſtred from Parliament, and committed to ſafe cuſtody.</p>
+            <p>
+               <hi>March</hi> 24. The Bill for diſabling the Earl of <hi>Danby</hi> was received; then ordered, that the Earl of <hi>Danby</hi> be taken into cuſtody of the Black Rod, and brought to the Bar the next morning.</p>
+            <p>A Meſſage was ſent from the Houſe of Commons, That they had by a Queſtion, <hi>Nemine Contradicente,</hi> ordered to demand juſtice of the Lords, that the Earl of <hi>Danby</hi> may be ſequeſtred from Parliament, and to be committed to ſafe cuſtody.</p>
+            <p>The Lords by a Meſſage to the Commons acquainted them, That upon their firſt Meſſage to this pur<g ref="char:EOLhyphen"/>poſe they had ordered the black Rod to take him into cuſtody, and that they thought fit to acquaint the houſe that they had done this before their laſt Meſſage to that purpoſe.</p>
+            <p>
+               <hi>March</hi> 25. 1679. The Lords agree with the Commons in the Vote concerning the Plot carryed on by the Papiſts.</p>
+            <p>
+               <hi>March</hi> 25. 1679. Privy Seal's Reaſons for his proteſtations againſt the Bill for baniſhing of the Earl of <hi>Danby.</hi>
+            </p>
+            <p>
+               <hi>April</hi> the 1ſt. The Bill of Attainder of the Earl of <hi>Danby</hi> brought up and read the firſt time.</p>
+            <p>
+               <hi>April</hi> the 2d. Read the ſecond time.</p>
+            <p>
+               <hi>April</hi> the 3d. Reported from the Committee, and the houſe agreed with the amendments.</p>
+            <p>
+               <hi>April</hi> the 4th. The Bill read the third time, now entituled, <hi>An Act for the Attainder of</hi> Thomas <hi>Earl of</hi> Danby <hi>of High Treaſons, in caſe he ſhall return into, or be found in any of the King's Dominions.</hi>
+            </p>
+            <p>This Bill was delivered, with Reaſons of the Amendments, at a Conference: <hi>vide</hi> Journals houſe of Commons.</p>
+            <list>
+               <item>
+                  <hi>Barkley.</hi>
+               </item>
+               <item>
+                  <hi>Le Ware.</hi>
+               </item>
+               <item>
+                  <hi>Arundel.</hi>
+               </item>
+               <item>
+                  <hi>Byron.</hi>
+               </item>
+               <item>
+                  <hi>Hatton.</hi>
+               </item>
+               <item>
+                  <hi>Northampton.</hi>
+               </item>
+               <item>
+                  <hi>Alesbury.</hi>
+               </item>
+               <item>
+                  <hi>Lindſey.</hi> 
+               </item>
+               <trailer>Diſſentientibus.</trailer>
+            </list>
+            <p>
+               <hi>April.</hi> 7. 1679. Articles of Impeachment againſt the five Lords were brought; hereupon it was ordered by the Lords Spiritual and Temporal in Parliament aſſembled, That the Lords Commit<g ref="char:EOLhyphen"/>tees for Priviledges do conſider of the Methods and Progreſs of the Proceedings to be had upon the Tryals of the Lords upon the Impeachments brought up againſt them.</p>
+            <p>
+               <hi>April</hi> 8. 1679. The Lords Committees report, That the Lords, now Priſoners in the <hi>Tower,</hi> are to be brought to the Bar together, and kneel there, and then ſtand up and hear the Articles of the Charge againſt them read.</p>
+            <p>That the ſaid Lords may have Councel to plead for them in matters of Law, but not in matters of Fact.</p>
+            <p>That ſuch Councel as the Lords ſhall name to the Houſe ſhall have free liberty of acceſs to their Lord<g ref="char:EOLhyphen"/>ſhips, in order to their Tryals.</p>
+            <p>This Report was read and agreed to; and the Lieutenant of the <hi>Tower</hi> ordered to bring the ſaid Lords to the Bar of the houſe the next Morning.</p>
+            <p>A Conference deſired by the Commons upon the Amendments of the ſaid Bill: <hi>vide</hi> Journals of the Commons.</p>
+            <p>A ſecond Conference held the ſame day by the deſire of the Lords: <hi>vide</hi> Commons Journals.</p>
+            <p>
+               <hi>April</hi> 19. 1679. Lord <hi>Powis,</hi> Lord <hi>Stafford,</hi> Lord <hi>Peters,</hi> Lord <hi>Arundel,</hi> brought to the Bar, and the Articles of Impeachment read to them; and being askt what they had to ſay for themſelves, they made ſeveral requeſts in order to their anſwering their charge, and making their defence.</p>
+            <p>
+               <pb n="13" facs="tcp:133282:6"/>
+The Houſe conſider'd their Requeſt, and Ordered that the ſeveral Indictments found againſt them, and my Lord <hi>Bellaſis,</hi> ſhould be brought in by <hi>Certiorari.</hi> And that they may have Copies of the Ar<g ref="char:EOLhyphen"/>ticles of Impeachment, and time given to Anſwer the Impeachment to the 15th. and farther time to anſwer to new Articles; and liberty to ſearch and take out Copies of Records and Journals, and to ſend for Witneſſes; and the Council aſſigned them that they have named, and the ſame Order made for my Lord <hi>Bellaſis,</hi> who upon Oath was reported ſick, and could not come.</p>
+            <p>A <hi>Certiorari</hi> Ordered to bring in their Indictments.</p>
+            <p>An Order whereby Council is aſſigned to the five Lords ſeverally in order to their Defence upon their Tryal, upon the Impeachment of the Houſe of Commons, whereby they are charged with High Treaſon. And that the ſaid Council have free acceſs from time to time for that purpoſe.</p>
+            <p>An Order reciting it is the duty of the whole Body of Peers to attend the Tryals; that therefore the Lord Chancellour to write to every Peer to attend, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>April</hi> 10. Afternoon.</p>
+            <p>A free Conference deſired upon the Matter of the laſt Conference.</p>
+            <p>Mr. <hi>Edward Vaughan</hi> opens the free Conference, urging and reinforcing the Reaſons which they had offered at a former Conference, and which the Lords at the laſt Conference had waved the anſwering of.</p>
+            <p>Taking notice that the Reaſon and Juſtice being for the Bill as they ſent it, they could not yet doubt their Lordſhips Concurrence in it, theſe being their only Motives to the paſſing of the Law; which being occaſioned by the parties flight from Juſtice, and in affront of this higheſt Court; They hoped their Lordſhips, who are Judges for the Kingdom; and not only for themſelves will follow the ex<g ref="char:EOLhyphen"/>ample of their Anceſtors, and proceed by Rules of Law, which are to guide in paſſing of Acts of Par<g ref="char:EOLhyphen"/>liament, as well as in the ordinary courſe of Judicature.</p>
+            <p>Sir <hi>Francis Wennington</hi> ſpake next, and urged Preſidents. <hi>Vide</hi> Journal Lords.</p>
+            <p>
+               <hi>April</hi> 10. 1679. A free Conference had at the deſire of the Commons upon the Amendments of the Bill of the Earl of <hi>Danby.</hi>
+            </p>
+            <p>
+               <hi>April</hi> 10. 1679. Ordered, That an Entry be made of the Journal of this day. The Vote of this Houſe of the 23d. of <hi>Decemb.</hi> 1678. concerning the Earl of <hi>Danbys</hi> not withdrawing after he had been heard in his place upon the Articles of Impeach<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent brought up againſt him from the Houſe of Commons. And the Votes of the 27 of <hi>Decemb.</hi> 1678. concerning his Lordſhips not being comm<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ted, ſhall not be drawn into Preſident for the future.</p>
+            <p>The Opinion of the Judges; That no Priſoners indicted for any Capital Crime, ſhall have a Copy of the Indictment without Order of the Court. That ſuch a Priſoner cannot of right demand Copies of Information of Witneſs againſt them (note that <hi>Oats</hi> and <hi>Bedlows</hi> Informations were entred into the Journal.)</p>
+            <p>
+               <hi>April</hi> 12. Another free Conference concerning the Earl of <hi>Danbys</hi> Bill, alledging the Lords Com<g ref="char:EOLhyphen"/>miſſions.</p>
+            <p>
+               <hi>April</hi> 15. The Lords Ordered to come to the Bar to put in their Anſwers next morning.</p>
+            <p>The Lord <hi>Bellaſis</hi> Anſwer received the ſame day.</p>
+            <p>
+               <hi>April</hi> 16. My Lord <hi>Danby</hi> was brought to the Bar, and put in his Anſwer; and having excuſed himſelf for withdrawing, and hoping to clear his Innocence, made ſeveral Requeſts in order to his anſwering the Charge in making his Defence.</p>
+            <p>The Lords granted him a Copy of his Articles, and gave him time to put in his Anſwer, and pro<g ref="char:EOLhyphen"/>miſed him farther time to anſwer any new Articles; and aſſigned him Council, and gave him leave to name other Council, and liberty to explain himſelf at his Tryal after any words by him then ſpoken, which he apprehended might be to his prejudice, and then he was committed to the <hi>Tower.</hi>
+            </p>
+            <p>
+               <hi>April</hi> 16. 1679. The other came to the Bar, and put in their Anſwer.</p>
+            <p>
+               <hi>April</hi> 21. 1679. A farther time given the Earl of <hi>Danby</hi> to put in his Anſwer to the 25th. In<g ref="char:EOLhyphen"/>ſtant.</p>
+            <p>
+               <hi>April</hi> 24. 1679. A Conference deſired by the Commons containing Objections concerning the Pleas and Anſwers of the four Lords, and requiring my Lord <hi>Bellaſis</hi> to appear perſonally.</p>
+            <p>
+               <hi>April</hi> 25. 1679. My Lord <hi>Danbys</hi> Plea was put in.</p>
+            <p>The ſame day the Lord <hi>Bellaſis</hi> put in an Anſwer in Perſon.</p>
+            <p>
+               <hi>April</hi> 26. 1679. Lord <hi>Powis,</hi> Lord <hi>Stafford,</hi> Lord <hi>Arundell,</hi> put in their further Anſwers.</p>
+            <p>
+               <hi>April</hi> 28. 1679. The Commons deſired the Earl of <hi>Danby</hi> may be ſent for to the Bar, to know whether he will rely upon, and abide by the Plea of his Pardon.</p>
+            <p>
+               <hi>April</hi> 29. 1679. The Earl of <hi>Danby</hi> being brought to the Bar, ſaid, the Queſtion was new to him, and of great importance, and he knew not how to anſwer at preſent, and deſired further time to anſwer, which was granted till <hi>Saturday</hi> following.</p>
+            <p>The ſame day the Indictments found by the Grand Jury againſt the five Lords were brought into the Houſe.</p>
+            <p>
+               <hi>May</hi> 2. 1679. It is Ordered, That on <hi>Monday</hi> following the Houſe will take into conſideration whether the Lords Spiritual ought to Vote in Judicature, in Caſes of Blood, and Bills of Attainder.</p>
+            <p>
+               <hi>May</hi> 3. 1679. The Earl of <hi>Danby</hi> put in his Anſwer of abiding by his Plea of his Pardon.</p>
+            <p>The Plea I have put in, was put in by the advice of my Council, who tell me that my Pardon is good in Law, and adviſe me to inſiſt upon my Plea put in, which I now do; and deſire that my Coun<g ref="char:EOLhyphen"/>cil may be heard to make out the validity of my Pardon.</p>
+            <p>Ordered Serjeant <hi>B<gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>,</hi> and Mr. <hi>Polluxſein</hi> may be added to the Earl of <hi>Danby</hi> his Council.</p>
+            <p>
+               <hi>May</hi> 5. 1679. The Houſe of Commons ſent up to demand Judgment againſt the Earl of <hi>Danby.</hi>
+            </p>
+            <div type="daily_records">
+               <pb n="14" facs="tcp:133282:7"/>
+               <head>Poſt Meridiem.</head>
+               <p>Ordered, That the Houſe will take into conſideration whether the Lords Spiritual are to give their Votes in Judicature of Blood, and Bills of Attainder as a Preliminary to the conſideration of the Demand of the Speaker of the Houſe of Commons concerning the Earl of <hi>Danby.</hi>
+               </p>
+               <p>
+                  <hi>May</hi> 6. 1679. The Commons ſend up their Meſſage that they will, and are ready to make good their Articles in Charge againſt the five Lords, upon which they were ordered to be brought to their Tryal that day ſeven-night.</p>
+               <p>Ordered, That <hi>Saturday</hi> following be appointed for hearing the Earl of <hi>Danby</hi> to make good his Plea.</p>
+               <p>
+                  <hi>May</hi> 8. 1679. Upon Reading the Petition of <hi>Thomas</hi> Earl of <hi>Danby,</hi> praying that the Order of this Houſe of the ſixth Inſtant made in his Caſe, which he ſuggeſted to be defective as to the aſſiſtance of his Council in defence of his Plea, may be explained. It is Ordered by the Lords Spiritual and Temporal in Parliament aſſembled, That the Council of the ſaid Earl of <hi>Danby</hi> are to attend with him, and be heard in his Defence.</p>
+            </div>
+            <div type="daily_records">
+               <head>Poſt Meridiem.</head>
+               <p>A Conference deſired for a Committee of both Houſes concerning the Tryal of the five Lords, and the Earl of <hi>Danby; Vide</hi> Journal Houſe of Commons.</p>
+               <p>To adjuſt the Proceedings in Order to the Tryals of the Lords.</p>
+               <p>
+                  <hi>May</hi> 9. 1679. An Anſwer to the Conference. <hi>Vide</hi> Journals Houſe of Commons.</p>
+               <p>Several Orders touching the Order of the Lords going to <hi>Weſtminſter-Hall,</hi> and bringing the Earl of <hi>Danby</hi> to the Bar; and for keeping diſtinct Seals for the Members of the Houſe of Commons.</p>
+               <p>
+                  <hi>May</hi> 10. 1679. Upon Reading the Petition of the Earl of <hi>Danby,</hi> ſhewing that he is now attending according to their Lordſhips Order; and expecting to have met his Council aſſigned by their Lord<g ref="char:EOLhyphen"/>ſhips for the Defence of his Plea.</p>
+               <p>That he hath received a Meſſage from every one of them, that they dare not appear to argue for him by reaſon of a Vote of the Houſe of Comm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns paſſed yeſterday, whereby the Petitioner is deſti<g ref="char:EOLhyphen"/>tute of all Council, and is thereby totally diſabled of making his legal Defence; therefore prayeth relief and directions therein.</p>
+               <p>Ordered, That the Petition be communicated to the Houſe of Commons at a Conference, to know of them whether they have made any ſuch Vote.</p>
+               <p>Another Conference deſired by the Commons upon the Subject matter of the laſt Conference. <hi>Vide</hi> Journal of the Houſe of Commons.</p>
+               <p>After which, the Queſtion being put whether a Committee of that Houſe ſhould be appointed to meet with a Committee of the Houſe of Commons, to confer about the Methods and Forms of pro<g ref="char:EOLhyphen"/>ceedings in Order to the tryal of the Lords. It was reſolved in the Negative <hi>Diſſentientibus</hi> fifty.</p>
+               <p>
+                  <hi>May</hi> 10. 1679. An Order, that there ſhall be a free Conference had with the Commons, concerning the Forms and Methods of proceedings to be had at the Tryal of the Lords in the <hi>Tower.</hi>
+               </p>
+               <p>Ordered, that the Managers of the free Conference are not to enter into any diſpute about Judica<g ref="char:EOLhyphen"/>ture.</p>
+               <p>
+                  <hi>May</hi> 11. 1679. The Report from that free Conference was, that the Lords asked the Commons what thoſe Forms and Methods were in reference to the tryals of the Lords in the <hi>Tower,</hi> which they de<g ref="char:EOLhyphen"/>ſire to confer about. At which the Comons ſay, they were not inſtructed to diſcourſe, becauſe they expected this free Conference was concerning a Committee of both Houſes, touching which their Lord<g ref="char:EOLhyphen"/>ſhips had given them yet no denyal. Therefore the Commons ſaid, they muſt reſort to their Houſe for directions herein.</p>
+               <p>Another free Conference deſired by the Commons, whereupon it was ordered that a Committee of that Houſe, be appointed to meet with a Committee of the Houſe of Commons to conſider of Propſitions and Circumſtances in reference to the tryal of the Lords in the Tower.</p>
+               <p>
+                  <hi>May</hi> 12. 1679. From the Committee of both Houſes, the Lord Preſident Reports, that the Com<g ref="char:EOLhyphen"/>mons propoſe, that the Lords would conſider of a longer time for the Tryal of the Lords in the <hi>Tower.</hi> This Propoſition is agreed to be the laſt thing conſidered.</p>
+               <p>The Report concerning the Lord High Steward omitted.</p>
+               <p>It is Reported further, That the Commons pray of, and deſire to know what Reſolution the Lords have taken concerning the Biſhops being, or not being at the Tryals of thoſe Lords.</p>
+               <p>The Commons ſay, That in the Earl of <hi>Strafford</hi>'s Caſe, the Lords acquainted the Commons, that the Biſhops intended not to be at the Tryal.</p>
+               <p>The Commons think it neceſſary to know, Whether the Lords intend any new Forms in Tryals upon Impeachments.</p>
+               <p>They conceive all Tryals upon Impeachments in Parliament, have been by Temporal Lords onely.</p>
+               <p>Hereupon it is Ordered by the Lords Spiritual and Temporal <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:133282:7"/>
+their Lordſhips are not to give Judgment, unleſs the Commons demand it. And the Commons <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to know, Whether the Lords will proceed in theſe Tryals, as their Lordſhips did anciently? For if <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Biſhops ſhould ſit upon theſe Tryals, and the Commons ſhould not demand Judgment, as being diſſati<gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> with their being there, it may be the Commons may proceed by Bill.</p>
+               <p>To which the Lords made Anſwer, That after the Evidence is fully heard, they are bound to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Judgment of Condemnation, or Acquittal; but this being matter of Judicature, the Lords declare That they would impoſe Silence upon themſelves, and debate no further.</p>
+               <p>The Commons farther deſire to know, Whether the Biſhops ſhall be allowed to Vote the Validity <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Pardon of the Earl of <hi>Danby?</hi> For they account that no Preliminary, but the very Eſſence of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tryal.</p>
+               <p>Upon Debate of that part of the Report which relates to the Lords the Biſhops, the Queſtion wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> propoſed, Whether the Lords Spiritual had a Right to ſtay in Court in Capital Caſes, till ſuch time as Judgment of Death comes to be pronounced; and was Reſolved in the Affirmative.</p>
+               <p>
+                  <hi>May</hi> 14. 1679. Upon the Lord Preſidents Report from the Committee of both Houſes, That the Lords had communicated to the Commons yeſterdays Vote, concerning the Biſhops ſitting in Court in Capital Caſes, and that the Commons objected, that the Lord High Stewards pronouncing the Judg<g ref="char:EOLhyphen"/>ment of the Court, is in time after all the Lords in the Court have Voted particularly, and conſequently the Lords Spiritual may Vote.</p>
+               <p>The Reſolution paſſed yeſterday was explained, That the Lords Spiritual have a Right to ſtay and ſit<g ref="char:punc">▪</g> in Court, till the Court proceeds to the Vote of Guilty, or not Guilty.</p>
+               <p>
+                  <hi>May</hi> 15. 1679. The Lord Preſident Reports from the Committee of both Houſes, That they had communicated the Explanation of the Vote concerning the Biſhops; to which the Commons urged, That if the Pardon of the Earl of <hi>Danby</hi> infer Life and Death, it is the ſame with Guilty, and not Guilty; and being deſirous to reduce the Buſineſs to a particular, asked, Whether it were intended by that Vote, that the Lords Spiritual ſhould Vote upon the Pardon of the Earl of <hi>Danby?</hi> To which the Lords replied, They had no Inſtructions to that Point, but would acquaint the Houſe with it.</p>
+               <p>
+                  <hi>May</hi> 16. 1679. The Lord Preſident Reports from the Committee of both Houſes, That the Com<g ref="char:EOLhyphen"/>mons communicated to their Lordſhips, that yeſterday they Reported to their Houſe, the Reſolution of the Peers, with the Explanation of them concerning the Lords Spiritual; upon conſideration whereof, their Houſe gave them as an Inſtruction to inſiſt on, That the Lords Spiritual ought not to give any Vote in any of the Proceedings upon the Impeachments againſt the Lords in the <hi>Tower.</hi> And the Com<g ref="char:EOLhyphen"/>mittee declared further, That they know not how to proceed in Capital Matters before a new Court. To which the Lords anſwered, That they had no Inſtructions, Power nor Allowance from the Houſe, to debate concerning this matter; deſired that if they had any other Propoſals to make, they would do it, and that the Lords were ready to debate them. To this the Commons anſwered, That they think it moſt proper, that the Propoſitions already made ſhould be determined, before they make any new ones. And then the Queſtion was put, Whether <hi>Thurſday</hi> following ſhould be appointed to begin the Tryal of the Five Lords? And it was Reſolved in the Affirmative.</p>
+               <p>After which Reſolutions, the Lords Spiritual asked the Leave of the Houſe, that they might with<g ref="char:EOLhyphen"/>draw themſelves from the Tryal of the ſaid Lords, with liberty of Entring their uſual Proteſtation.</p>
+               <p>Ordered, that this Reſolution of the Houſe, and Deſire of the Lords Spiritual, be communicated to the Committee of the Houſe of Commons to morrow morning.</p>
+               <p>
+                  <hi>May</hi> 17. 1979. The Lord Preſident Reports, That the Lords had communicated this Reſolution and Deſire of the Biſhops to the Commons, and that the Commons anſwered, That the Vote of the Houſe of Commons which they acquainted the Lords with yeſterday concerning the Biſhops, extended as well to the Earl of <hi>Danby,</hi> as the ſaid Five Lords, whereas the Lords Vote relates onely to the Five Lords, and therefore they deſire to know what Anſwer the Lords give as to the Earl of <hi>Danby.</hi>
+               </p>
+               <p>They further Objected, That they conceived that their Vote was to the Right of the thing, and that the Biſhops had no Right to be at any one Vote in any Capital Caſe, and they conceived the Earl of <hi>Danby</hi>'s Caſe to be a Capital Caſe, as well as the Caſes of the other Five Lords; and that if the Biſhops may have leave to withdraw, it implies a Right, which if they have it, is a new Court, which the Com<g ref="char:EOLhyphen"/>mons cannot admit of.</p>
+               <p>The Lords did then let them know that there is no day yet appointed for the tryal of the Earl of <hi>Danby,</hi> and that the Lords ſpiritual will be abſent at all the parts of the tryals of the five Lords, and that the Proteſtation they now deſire to enter, will be the ſame as in the Earl of <hi>Staffords</hi> caſe.</p>
+               <p>Then the Commons ſaid they could not proceed to treat of any other propoſal till ſuch time as the buſineſs about the Court be ſetled.</p>
+               <p>Ordered by the Lords Spiritual and Temporal, That the Committee for Priviledges ſearch for, and conſider Preſidents and Waies of Proceedings on the Tryals in Judicature of the Peers, and ad<g ref="char:EOLhyphen"/>viſe of Directions and Methods fit to be obſerved therein for the preſervation of Order and Regu<g ref="char:EOLhyphen"/>larity in the Tryals of the Lords now appointed, and all circumſtances uſually ariſing in ſuch Tryals.</p>
+               <p>
+                  <hi>May</hi> 19. 1679. The ſaid Preſident Reports, That the Commons inſiſt on their former Votes, that the Biſhops ought not to have any Votes, <hi>&amp;c.</hi> And when that ſhall be ſetled, and the methods of Pro<g ref="char:EOLhyphen"/>ceedings adjuſted, the Houſe will be ready to proceed upon the Tryal of the Pardon of the Earl of <hi>Danby,</hi> againſt whom they have demanded Judgment, and then to the Tryal of the other Five Lords; upon which the Lords told them, they had no Authority to debate this matter.</p>
+               <p>The Commons ſaid, the Lords Reſolution was no Anſwer to their Propoſition, which comprehended the Earl of <hi>Danby,</hi> as well as the Five Lords. R. The Lords Anſwer was doubtful. The Biſhops ask<g ref="char:EOLhyphen"/>ed Leave to be abſent, but it appears not that it was granted; if they may ask Leave, and it be not granted, then they may ſit in Court at the Tryals. The Biſhops abſenting by way of Leave, is a ſtrong Implication of a Right aſſerted; there is the ſame Reaſon for the Biſhops being abſent upon the
+<pb n="16" facs="tcp:133282:8" rendition="simple:additions"/>
+Tryal of the Pardon, as of the other five Lords, the naming of a day for the Tryal of the five Lords, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fore the Tryal of the Pardon of the Earl of <hi>Danby,</hi> againſt whom they have already demanded Judg<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent, is putting that laſt, which they deſire ſhould be firſt.</p>
+               <p>The Lords ſaid, They had no power to debate that, The Commons reply; They are ready to go on, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at for want of theſe Tryals, all Publick Buſineſs ſtands ſtill; but the Lords ſeem to lay the ſtop at the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ommons door, by naming a day which they conceive ought not to have been appointed, before the methods be conſidered; for the Lords have not anſwered the Commons in matters of Right, which <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> neceſſary firſt to be adjuſted, and they deſire your Reſolution as to that matter, for they conceive <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey have no Right; and the Lords may as well make the Judges part of their Court, as the Biſhops <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n this Point. The Commons will give no diſturbance to the ancient Judicature, for they own that to be Sacred, and they conceive they have a Right to know before what Court they ſhall appear.</p>
+               <p>
+                  <hi>May</hi> 20. 1679. The Houſe adjourned into a Committee, to conſider yeſterdays Report; where<g ref="char:EOLhyphen"/>upon the Houſe being Reſumed, it was Ordered by the Lords Spiritual and Temporal, That <hi>Tueſday</hi> next be appointed for the Tryal of the Five Lords in the <hi>Tower.</hi>
+               </p>
+               <p>
+                  <hi>May</hi> 21. 1676. Upon reading Reports from the Committee, concerning the Methods of Proceed<g ref="char:EOLhyphen"/>ings, it is Ordered, That an Abſtract of ſo much of the Journal be made, as is neceſſary to be commu<g ref="char:EOLhyphen"/>nicated to the Houſe of Commons, the reſt to be for the uſe of the Chancellor.</p>
+               <p>Ordered by the Lords Spiritual and Temporal, <hi>&amp;c.</hi> that Mr. <hi>Poluxfein</hi> be added to my Lord <hi>Stafford</hi>'s Council, in order to his Defence upon his Tryal.</p>
+               <p>
+                  <hi>May</hi> 22. 1679. A report from the Committee of priviledges to be communicated at the Com<g ref="char:EOLhyphen"/>mittee of both Houſes touching proceedings at the tryals.</p>
+               <p>There is an order that the Priſoners be brought to the Bar on <hi>Tueſday</hi> next.</p>
+               <p>
+                  <hi>May</hi> 13. 1679. The Queſtion put, Whether the Lords Spiritual have a Right to ſtay in Court in Capital Caſes, till ſuch time as Judgment of Death comes to be pronounced, which was Reſolved in the Affirmative.</p>
+               <p>Diſſentientibus, <hi>Darby, Wincheſter, Shaftsbury, Huntington, Eſſex, Clare, Herbert, Stanford, Mancheſter, Kent, Delamer, Mulgrave, Lovelace, Wharton, Howard, Rockingham, Strafford, Salisbury, North,</hi> and <hi>Grey de Grey, Hallifax.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
